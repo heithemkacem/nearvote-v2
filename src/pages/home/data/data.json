@@ -1,0 +1,66 @@
+{
+    "Header": {
+
+        "title": "The future of NEARVOTE",
+        "paragraph": "Your voices are being heard and you’re proving to our ancestors that their struggles were not in vain. Now we have one more thing we need to do to walk in our true power, and that is to vote."
+
+    },
+    "About": {
+        "paragraph": "As after seeing so much problems and corruption in our voting system, our team com out with the plan to transform the voting system of Pakistan and shifting the system from the standard paper voting to decnetralized voting system, where the whole voting system will be transparent to the users and the voters will be easily cast the vote from any where the world, Our application provides a hastle free and visible voting and the user will be able to see results on run time So, our mission was to introduce a fair way of election in Pakistan so a fair leadership is been elected and as by introducing the blockchain the system becomes totally transparent for all the users and now as every vote casted is been mapped to the blockchain and in the result a transparent and a fair election will take place a true leadership will be elected that can govern the country and make it grow.",
+        "Why": [
+            "Secure Voting",
+            "Decentralized"
+        ]
+    },
+    "Services": [{
+            "name": "KYC",
+            "text": "We have introduced the decentralized KYC of the voters so no double voting can be done through the system and eliminated the fake vote count."
+        },
+        {
+            "name": "DECENTRALIZED",
+            "text": "Our voting application is completely decentralized and this results to the elimination of the interfarence of any person in voting results."
+        },
+        {
+            "name": "BLOCKCHAIN",
+            "text": "Our Voting system is a blockchain based system and it provides a transparent voting system, eliminatede the problem of vote tempering."
+        },
+        {
+            "name": "TRANSPARENT VOTING",
+            "text": "Our Voting system is a blockchain based system and it provides a transparent voting system, eliminatede the problem of vote tempering."
+        },
+        {
+            "name": "FUTURE",
+            "text": "Learn how to take beautiful portraits with minimal equipment; how light affects your images and how to make the very best of any location."
+        },
+        {
+            "name": "DEVELOPED COUNTRY",
+            "text": "Our voting system will result a loyal election and a true leader will be elected that will put the country on the way of development."
+        }
+
+
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "KYC",
+            "text": "We have introduced the decentralized KYC of the voters so no double voting can be done through the system and eliminated the fake vote count."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "BLOCKCHAIN",
+            "text": "Our voting application is completely decentralized and this results to the elimination of the interfarence of any person in voting results."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "DECENTRALIZED",
+            "text": "Our voting application is completely decentralized and this results to the elimination of the interfarence of any person in voting results."
+        }
+    ]
+}

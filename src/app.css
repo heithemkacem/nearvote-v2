@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@200&display=swap');
+
+.toastBody {
+    font-family: "Public Sans", Arial, Helvetica, sans-serif;
+    color: #10171D; /* #10171D */
+    font-size: 0.875rem !important;
+  }
+  
